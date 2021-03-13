@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my personal website!
 
-You can use the [editor on GitHub](https://github.com/ctwayen/XinruiZhan/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am Xinrui Zhan (詹昕锐). I finished my data science bachelor degree at UCSD at 2021 Winter. My undergraduate academic interest focuses on computer vision and graph neural networks. I will extend this interest to my graduate studies. Currently, I am interested in using graph neural networks to improve deep learning models’ architecture and metric learning. Contact me through my email: ctwayen@outlook.com! Below are abstracts for my projects and corresponding repos’ links. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
+    This is my senior capstone project. The project aims to train a Graph Convolutional Network predicting 3d shapes based on 3d points cloud. This project also compares the result of GCN with PointNet. Check the code here: [code](https://github.com/ctwayen/GNN-Points-Cloud) (you also can run the run.py to replicate our results). Check the project website here: [web](https://ctwayen.github.io/Graph-Neural-Network-on-3D-Points/) The code is running on a few python libraries. You can choose to run the code on the docker image we already created: [docker](https://hub.docker.com/repository/docker/ctwayen/project_docker）
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- Graph Convolutional Network on 3d Points Cloud
+    
+    This is my senior capstone project. The project aims to train a Graph Convolutional Network predicting 3d shapes based on 3d points cloud. This projects also compares the 
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ctwayen/XinruiZhan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
